@@ -13,11 +13,6 @@ export default function Hero(){
         icon: "/Icons/linkedin.png",
         text: "Braulio Antayhua",
         href: "https://www.linkedin.com/in/braulioantayhua",
-        },
-        {
-        icon: "/Icons/gmail.png",
-        text: "braulises1606@gmail.com",
-        href: "mailto:braulises1606@gmail.com",
         }
     ];
 

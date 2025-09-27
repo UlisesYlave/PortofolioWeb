@@ -108,5 +108,37 @@
     color: #4a5568;
     text-decoration: none;
     transition: color 0.2s ease-in-out;
+    margin-top: 20px;
     z-index: 2;
+}
+
+@media (max-width: 768px) {
+    .hero-section {
+        height: auto;
+        padding: 20px;
+    }
+
+    .hero-content {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .hero-info h1 {
+        font-size: 2rem;
+        text-align: center;
+    }
+
+    .hero-info p {
+        font-size: 1rem;
+        text-align: center;
+    }
+
+    .hero-content .perfil-imagen {
+        width: 200px;
+        border-width: 10px;
+    }
+
+    .contact-links-list-hero {
+        justify-content: center;
+    }
 }
