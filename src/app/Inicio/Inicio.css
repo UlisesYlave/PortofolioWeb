@@ -1,0 +1,20 @@
+.inicio-page{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: #1a1a1a;
+    color: white;
+    text-align: center;
+}
+
+.perfil-imagen {
+    border-radius: 50%;
+    border: 4px solid white;
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    margin-bottom: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.7);
+}
