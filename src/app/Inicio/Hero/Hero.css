@@ -10,6 +10,7 @@
     text-align: center;
     position: relative;
     overflow: hidden; /* Esto evita que la animación se desborde */
+    background: #000;
 }
 
 .hero-content {
