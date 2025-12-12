@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "titulo": "GIA PUCP",
+    "fecha": "sep, 2025",
+    "enlace": "http://giaperu.space/",
+    "descripcion": "Landing page de organización estudiantil sobre ingeniería aeroespacial. Enfocado en difusión de noticias y eventos relacionados.",
+    "tecnologias": ["HTML", "CSS", "JavaScript", "React", "Next.js", "Tailwind CSS"],
+    "imagen": "/proyectos/gia.png",
+    "alt": "Imagen del proyecto GIA"
+  },
+  {
+    "id": 2,
+    "titulo": "Portal de Desafiliación",
+    "fecha": "jul, 2025",
+    "enlace": "https://github.com/UlisesYlave/PortalDesafiliacion",
+    "descripcion": "Portal de Desafiliacion Web que busca la retención de los usuarios mediante ofertas personalizadas. Considerando residencia, número y tipo de afiliaciones.",
+    "tecnologias": ["HTML", "CSS", "Java", ".NET"],
+    "imagen": "/proyectos/portal.png",
+    "alt": "Imagen del proyecto Portal de Desafiliación"
+  },
+  {
+    "id": 3,
+    "titulo": "Senergycom",
+    "fecha": "mar, 2025",
+    "enlace": "https://senergycom.netlify.app/",
+    "descripcion": "Landing Page para empresa familiar J&R Senergycom SAC enfocada en cableado estructurado, energía y seguridad electrónica.",
+    "tecnologias": ["HTML", "CSS", "JavaScript", "React"],
+    "imagen": "/proyectos/senergycom.jpg",
+    "alt": "Imagen del proyecto Senergycom"
+  }
+]
